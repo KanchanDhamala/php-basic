@@ -1,9 +1,9 @@
 <?php
     
-    $db_server = "localhost";
-    $db_user= "root";
+    $db_server = "";
+    $db_user= "";
     $db_password= "";
-    $db_name    = "firstdb";
+    $db_name    = "";
     $db_connection="";
 
     try {
